@@ -1,0 +1,14 @@
+Strucny prehled produktu na nasich webovkach s odkazem na stranku vyrobce. 
+Vytvorim programek, ktery z tohoto souboru vytahne url linky a z nich pak
+informace o produktech (stahne obrazky, parametry, bude schopen sledovat
+zmeny, ...)
+
+POZOR: Potrebuji, aby URL bylo na zvlasnim radku
+
+
+1900 Klass:
+http://www.antares.cz/cz/1900-klass
+
+1850 SYN OMNIA ALU PDH WHITE:
+http://www.antares.cz/cz/1850-syn-omnia-alu-pdh-white
+
