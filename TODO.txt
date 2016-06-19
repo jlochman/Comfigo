@@ -1,3 +1,8 @@
 // Novy napad, co je treba dodelat, pujde sem
 
 Doplnky k produktum? (kolecka, operky na hlavu, na ruce)
+Rozdeleni produktu do kategorii, podkategorii?
+Atribute, Feature (nosnost, barva, material, rozmery, hmotnost)
+ - Atribute = neco, co deli produkt na dva ruzne (velikost, barva)
+ - Feature = vlastnost, co produkt ma (material, hmotnost)
+Barva - jaka je vzdy dostupna?
