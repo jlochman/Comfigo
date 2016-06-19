@@ -5,4 +5,4 @@ Rozdeleni produktu do kategorii, podkategorii?
 Atribute, Feature (nosnost, barva, material, rozmery, hmotnost)
  - Atribute = neco, co deli produkt na dva ruzne (velikost, barva)
  - Feature = vlastnost, co produkt ma (material, hmotnost)
-Barva - jaka je vzdy dostupna?
+Barva - jaka je vzdy dostupna? Ve stejné cenové kategorii?
