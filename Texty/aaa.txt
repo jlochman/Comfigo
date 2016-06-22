@@ -1,0 +1,4 @@
+// V Prestashop: Preferences -> CMS
+// 
+
+Delsi texty, ktere bude nezbytne mit na strankach (o nas, obchodni podminky, ...)
