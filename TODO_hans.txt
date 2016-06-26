@@ -1,1 +1,6 @@
 // Hansovy povinnosti
+
+Pod Owl carousel vymyslet nejaky text (cim se zabyvame)
+Menu a obrazky k rozdeleni produktu
+Pripravit vzhled stranky produktu (zaruka)
+Souvisejici produkty

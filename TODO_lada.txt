@@ -1,1 +1,8 @@
 // Ladovy povinnosti
+
+Do konce tydne:
+Vybrat sortiment
+Logo, moto
+
+Dale:
+Barvy potahu, dostupnost produktu podle barvy, material
