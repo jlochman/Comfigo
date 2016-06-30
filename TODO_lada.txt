@@ -1,8 +1,11 @@
 // Ladovy povinnosti
 
 Do konce tydne:
-Vybrat sortiment
-Logo, moto
+Logo
 
 Dale:
 Barvy potahu, dostupnost produktu podle barvy, material
+
+Otazky na Pospisila:
+Dostupnost produktu v dilcich kombinacich (na jedny strance jsem videl, ze u nekterych latek je dodani 3-4 tydny)
+Kolecka (muzeme zakaznikovi nabidnout jina, nez jsou defaultne u produktu?)
