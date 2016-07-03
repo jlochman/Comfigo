@@ -1,13 +1,199 @@
-Strucny prehled produktu na nasich webovkach s odkazem na stranku vyrobce. 
+Strucny prehled produktu na nasich webovkach s odkazem na stranku vyrobce. 
 Vytvorim programek, ktery z tohoto souboru vytahne url linky a z nich pak
 informace o produktech (stahne obrazky, parametry, bude schopen sledovat
 zmeny, ...)
 
 POZOR: Potrebuji, aby URL bylo na zvlasnim radku
 
+====================================================
+Kancelářšké
+====================================================1380 syn FLUTE
+http://www.antares.cz/cz/1380synflute
+1580 syn GALA PLUS
+http://www.antares.cz/cz/1580syngalaplus
 
-1900 Klass:
-http://www.antares.cz/cz/1900-klass
 
-1850 SYN OMNIA ALU PDH WHITE:
+1850 syn OMNIA PDH
+http://www.antares.cz/cz/omnia
+
+1850 SYN Omnia ALU
+http://www.antares.cz/cz/omnia-alu
+
+1850 syn OMNIA WHITE
+http://www.antares.cz/cz/1850-syn-omnia-white
+1850 SYN Omnia ALU PDH WHITE
 http://www.antares.cz/cz/1850-syn-omnia-alu-pdh-white
+1870 syn MOTION PDH
+http://www.antares.cz/cz/motion-plast
+Oklahoma PDH
+http://www.antares.cz/cz/oklahoma-pdh
+Tennessee
+http://www.antares.cz/cz/tennessee
+Miami
+http://www.antares.cz/cz/miami
+1540 asyn
+http://www.antares.cz/cz/1540asyn
+1870 SYN Motion ALU SBM
+http://www.antares.cz/cz/1870-syn-motion-alu-sbm
+1870 SYN Motion ALU PDH SBM
+— na strankach neni
+Missouri
+http://www.antares.cz/cz/missouri
+1890 SYN Infinity WHITE
+http://www.antares.cz/cz/1890-syn-infinity-white
+1890 SYN Infinity
+http://www.antares.cz/cz/1890-syn-infinity-white-1
+1890 SYN Infinity NET WHITE
+http://www.antares.cz/cz/1890-syn-infinity-net-white1890 SYN Infinity NET
+http://www.antares.cz/cz/1890-syn-infinity-net1890 SYN Infinity PERF WHITE
+http://www.antares.cz/cz/1890-syn-infinity-perf-white1890 SYN Infinity PERF
+http://www.antares.cz/cz/1890-syn-infinity-perf
+KASE – RIBBED LOW BACK
+http://www.antares.cz/cz/kase-vysoke-zebrovane-zada
+KASE – SOFT LOW BACK
+http://www.antares.cz/cz/kase-polastare-nizke-zadaKASE – MESH LOW BACK
+http://www.antares.cz/cz/kase-mesh-nizke-zadaKASE – RIBBED HIGH BACK
+http://www.antares.cz/cz/kase-zebrovane-vysoke-zadaKASE – SOFT HIGH BACK
+http://www.antares.cz/cz/kase-polstare-vysoke-zadaKASE – MESH HIGH BACK
+http://www.antares.cz/cz/kase-mesh-vysoke-zada9040 Sophiahttp://www.antares.cz/cz/9040-sophia1580 SYN Gala NET (GREY) ALU
+http://www.antares.cz/cz/1580syngalanetalu1580 SYN Gala NET (GREY)
+http://www.antares.cz/cz/1580syngalanet
+
+====================================================
+Dětské
+====================================================
+BABY
+http://www.antares.cz/cz/baby
+
+====================================================
+Čalouněné sezení (pytle, kostky, ...)
+====================================================
+MOLLY
+http://www.antares.cz/cz/molly
+BLESS
+http://www.antares.cz/cz/bless
+
+BLESS BIG
+http://www.antares.cz/cz/blessbig
+
+CLOWN
+http://www.antares.cz/cz/clown
+
+PONY
+http://www.antares.cz/cz/pony
+
+KUBO
+http://www.antares.cz/cz/kuboVENUShttp://www.antares.cz/cz/venus
+FLOWER
+http://www.antares.cz/cz/flowerFLOWER MEDIUM
+http://www.antares.cz/cz/flower
+
+WAVE
+http://www.antares.cz/cz/waveWAVELEThttp://www.antares.cz/cz/wavelet
+DANDY
+http://www.antares.cz/cz/dandyHOLIDAY
+http://www.antares.cz/cz/holidayEUROBALL
+http://www.antares.cz/cz/euroball
+
+EUROBALL MEDIUM
+http://www.antares.cz/cz/euroballmedium
+
+ALIBABA
+http://www.antares.cz/cz/alibaba
+POTZIEhttp://www.antares.cz/cz/potzie
+Náhradní náplň 1kg
+====================================================Pracovní====================================================Concordehttp://www.antares.cz/cz/concordeMaxima IIhttp://www.antares.cz/cz/maximaii1824 Leihttp://www.antares.cz/cz/1824lei
+MARKUS
+http://www.antares.cz/cz/markus1290 L MEK
+http://www.antares.cz/cz/1290lmek1040 ERGO – pokladní židle
+http://www.antares.cz/cz/1040-ergo-pokladnizidle
+
+1040 ERGO ANTISTATIC (ESD)
+http://www.antares.cz/cz/1040ergoesd
+
+====================================================Konferenční
+====================================================
+Taurus TN (TG)
+http://www.antares.cz/cz/taurustn
+2160 PC Aoki
+http://www.antares.cz/cz/2160-pc-aoki
+2160 PC Aoki STYLE
+http://www.antares.cz/cz/2160-pc-aoki-style
+
+Ergosit
+http://www.antares.cz/cz/ergosit
+Fresh/A
+http://www.antares.cz/cz/fresha-p-1
+Fresh/B
+http://www.antares.cz/cz/freshb
+2130/S PC Strike
+http://www.antares.cz/cz/pc-strike
+
+Elsi LC
+http://www.antares.cz/cz/elsi
+Elsi TC
+http://www.antares.cz/cz/elsitc
+2091 N Alina
+http://www.antares.cz/cz/2091ngalina
+
+Taurus PN (PG) LAYER
+http://www.antares.cz/cz/tauruspnlayer
+http://www.antares.cz/cz/taurustn
+
+====================================================Pohovky
+====================================================
+Soprano 102
+http://www.antares.cz/cz/soprano102
+Soprano 103
+http://www.antares.cz/cz/soprano-103
+Notre Dame 102
+http://www.antares.cz/cz/nd102
+Notre Dame Lounge 102
+http://www.antares.cz/cz/dame102
+
+Notre Dame 103
+http://www.antares.cz/cz/notre-dame-104
+Notre Dame Lounge 103
+http://www.antares.cz/cz/dame103
+ 
+Morfeo 102
+http://www.antares.cz/cz/morfeo102
+Morfeo 103
+http://www.antares.cz/cz/morfeo103
+Morfeo 102 + TA
+http://www.antares.cz/cz/morfeo102ta
+
+====================================================Křesla
+====================================================
+
+Blitz Conference
+http://www.antares.cz/cz/blitzc
+
+Fire
+http://www.antares.cz/cz/fire
+Tina
+http://www.antares.cz/cz/tina
+Ama
+http://www.antares.cz/cz/ama
+Soft Sled / PDH
+http://www.antares.cz/cz/softs
+
+Soprano 100
+http://www.antares.cz/cz/soprano100
+
+Trio 100
+http://www.antares.cz/cz/trio100
+Notre Dame 100
+http://www.antares.cz/cz/nd100
+
+Morfeo 100
+http://www.antares.cz/cz/morfeo100====================================================Solitér
+====================================================Ama (jiz u kresel)Soft Sled PDH (jiz u kresel)
+Soft Sled (jiz u kresel)
+Soft Cross
+http://www.antares.cz/cz/softcc
+
+Boat 1
+http://www.antares.cz/cz/boat
+Boat 2
+http://www.antares.cz/cz/boat2
